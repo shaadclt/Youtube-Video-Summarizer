@@ -1,5 +1,7 @@
 # YouTube Video Summarizer
 
+![ytsum](https://github.com/shaadclt/Youtube-Video-Summarizer/assets/98437584/698652bc-d31a-493b-ad62-173536067957)
+
 This is a Streamlit web application that summarizes YouTube videos using Youtube Transcript API and Google's Generative AI Gemini Pro.
 
 ## Overview
