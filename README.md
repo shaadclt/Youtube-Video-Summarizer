@@ -36,7 +36,7 @@ streamlit run app.py
 
 ## Credits
 
-This project was created by [Mohamed Shaad]. You can find me on [LinkedIn](https://www.linkedin.com/in/mohamedshaad/) and [GitHub](https://github.com/shaadclt).
+This project was created by **Mohamed Shaad**. You can find me on [LinkedIn](https://www.linkedin.com/in/mohamedshaad/) and [GitHub](https://github.com/shaadclt).
 
 ## License
 
